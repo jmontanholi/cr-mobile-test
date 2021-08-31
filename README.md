@@ -17,6 +17,22 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- GitHub account
+- Git
+- Browser
+- Commandline
+### Setup
+
+- To setup this repository locally please open your commandline.
+- Navigate to where you want to clone the repository
+- Use this command to clone it `git clone git@github.com:jmontanholi/cr-mobile-test.git`
+- Then `cd cr-mobile-test`
+### Usage
+
+- To open it locally just open the index.html on the browser of your preference
+
+### Prerequisites
+
 You will need the following:
 
 - Github Account
@@ -42,4 +58,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Free Code Camp
-- [Uzair Ali](https://github.com/uzairali19/elmar-uzair)
+- [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471)
