@@ -15,10 +15,10 @@ closeBtn.addEventListener('click', () => {
   mobileNav.classList.add('d-none');
 });
 
-// mobileLinks.forEach((link) => {
-//   link.addEventListener('click', () => {
-//     menuBtn.classList.remove('d-none');
-//     closeBtn.classList.add('d-none');
-//     mobileNav.classList.add('d-none');
-//   });
-// });
+mobileLinks.forEach((link) => {
+  link.addEventListener('click', () => {
+    menuBtn.classList.remove('d-none');
+    closeBtn.classList.add('d-none');
+    mobileNav.classList.add('d-none');
+  });
+});

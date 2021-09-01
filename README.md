@@ -25,11 +25,11 @@ To get a local copy up and running follow these simple example steps.
 
 - To setup this repository locally please open your commandline.
 - Navigate to where you want to clone the repository
-- Use this command to clone it `git clone git@github.com:jmontanholi/cr-mobile-test.git`
+- Use this command to clone it `git clone https://github.com/jmontanholi/cr-mobile-test.git`
 - Then `cd cr-mobile-test`
 ### Usage
 
-- To open it locally just open the index.html on the browser of your preference
+- To open it locally just open the `index.html` on the browser of your preference
 
 ### Prerequisites
 
